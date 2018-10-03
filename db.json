@@ -1,1 +1,118 @@
-https://my-json-server.typicode.com/<your-username>/<your-repo>
+[
+  {
+    "ip": "103.236.201.27",
+    "ptr": "exit1.k25pack.cz."
+  },
+  {
+    "ip": "103.250.73.13",
+    "ptr": "exit1.k25pack.cz."
+  },
+  {
+    "ip": "103.27.124.82",
+    "ptr": "exit1.k25pack.cz."
+  },
+  {
+    "ip": "103.28.52.93",
+    "ptr": "exit1.k25pack.cz."
+  },
+  {
+    "ip": "103.28.53.138",
+    "ptr": "exit1.k25pack.cz."
+  },
+  {
+    "ip": "103.3.61.114",
+    "ptr": "exit1.k25pack.cz."
+  },
+  {
+    "ip": "103.8.79.229",
+    "ptr": "exit1.k25pack.cz."
+  },
+  {
+    "ip": "103.84.172.38",
+    "ptr": "exit1.k25pack.cz."
+  },
+  {
+    "ip": "103.87.8.163",
+    "ptr": "exit1.k25pack.cz."
+  },
+  {
+    "ip": "104.131.206.23",
+    "ptr": "exit1.k25pack.cz."
+  },
+  {
+    "ip": "104.168.57.75",
+    "ptr": "exit1.k25pack.cz."
+  },
+  {
+    "ip": "104.200.20.46",
+    "ptr": "exit1.k25pack.cz."
+  },
+  {
+    "ip": "104.218.63.72",
+    "ptr": "exit1.k25pack.cz."
+  },
+  {
+    "ip": "104.218.63.73",
+    "ptr": "exit1.k25pack.cz."
+  },
+  {
+    "ip": "104.218.63.74",
+    "ptr": "exit1.k25pack.cz."
+  },
+  {
+    "ip": "104.218.63.75",
+    "ptr": "exit1.k25pack.cz."
+  },
+  {
+    "ip": "104.218.63.76",
+    "ptr": "exit1.k25pack.cz."
+  },
+  {
+    "ip": "104.218.63.77",
+    "ptr": "exit1.k25pack.cz."
+  },
+  {
+    "ip": "104.223.123.100",
+    "ptr": "exit1.k25pack.cz."
+  },
+  {
+    "ip": "104.223.123.101",
+    "ptr": "exit1.k25pack.cz."
+  },
+  {
+    "ip": "104.223.123.98",
+    "ptr": "exit1.k25pack.cz."
+  },
+  {
+    "ip": "104.223.123.99",
+    "ptr": "exit1.k25pack.cz."
+  },
+  {
+    "ip": "104.244.73.126",
+    "ptr": "exit1.k25pack.cz."
+  },
+  {
+    "ip": "104.244.74.59",
+    "ptr": "exit1.k25pack.cz."
+  },
+  {
+    "ip": "104.244.74.78",
+    "ptr": "exit1.k25pack.cz."
+  },
+  {
+    "ip": "104.244.75.82",
+    "ptr": "exit1.k25pack.cz."
+  },
+  {
+    "ip": "104.244.76.13",
+    "ptr": "exit1.k25pack.cz."
+  },
+  {
+    "ip": "104.244.76.218",
+    "ptr": "exit1.k25pack.cz."
+  },
+  {
+    "ip": "104.244.76.50",
+    "ptr": "exit1.k25pack.cz."
+  }
+]
